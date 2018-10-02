@@ -1,0 +1,17 @@
+body {
+    background-image: url(../images/background.jpg);
+}
+
+#game {
+    display: block;
+    text-align: center;
+    margin: auto;
+    background-color: slateblue;
+    width: 50%;
+    color: peachpuff;
+    font-size: 24px;
+}
+
+#guesses {
+    padding: 20px;
+}
